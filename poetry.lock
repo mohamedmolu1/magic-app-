@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Generate Random Profile"
+name = "random-profile"
+optional = false
+python-versions = "*"
+version = "0.0.5"
+
+[metadata]
+content-hash = "4db007b9dc9d8bb3e0af10cf59014f3c1315fb2e76e1fac310644090f118c374"
+python-versions = "^3.7"
+
+[metadata.hashes]
+random-profile = ["96f8fe6f5b1735dea0e2de7b861c105ab74f6147b3e4120b1d7eaa1046577491"]
